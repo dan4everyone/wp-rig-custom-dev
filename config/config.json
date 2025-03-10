@@ -1,5 +1,6 @@
 {
   "theme": {
+    "slug": "wp-rig-custom",
     "name": "wp-rig-custom",
     "description": "Custom WordPress theme based on WP Rig",
     "version": "1.0.0",
