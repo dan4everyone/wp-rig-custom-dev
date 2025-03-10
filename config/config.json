@@ -13,7 +13,7 @@
   "dev": {
     "browserSync": {
       "live": true,
-      "proxyURL": "wprig.test:8888",
+      "proxyURL": "localhost:8888/wp-rig-custom-dev",
       "bypassPort": "8181",
       "https": false
     },
